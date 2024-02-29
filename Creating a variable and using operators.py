@@ -1,4 +1,4 @@
-print("Hello World")  #my hython program
+print("Hello World")  #my phython program
 #creating a variable 
 a="vishnu"
 b="suriyan"
